@@ -1,0 +1,14 @@
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\bin\Debug\net9.0\paramssample.exe
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\bin\Debug\net9.0\paramssample.deps.json
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\bin\Debug\net9.0\paramssample.runtimeconfig.json
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\bin\Debug\net9.0\paramssample.dll
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\bin\Debug\net9.0\paramssample.pdb
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\obj\Debug\net9.0\paramssample.GeneratedMSBuildEditorConfig.editorconfig
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\obj\Debug\net9.0\paramssample.AssemblyInfoInputs.cache
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\obj\Debug\net9.0\paramssample.AssemblyInfo.cs
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\obj\Debug\net9.0\paramssample.csproj.CoreCompileInputs.cache
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\obj\Debug\net9.0\paramssample.dll
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\obj\Debug\net9.0\refint\paramssample.dll
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\obj\Debug\net9.0\paramssample.pdb
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\obj\Debug\net9.0\paramssample.genruntimeconfig.cache
+D:\ki5\PRN212\Location\PRN212 SE1848\paramssample\obj\Debug\net9.0\ref\paramssample.dll
