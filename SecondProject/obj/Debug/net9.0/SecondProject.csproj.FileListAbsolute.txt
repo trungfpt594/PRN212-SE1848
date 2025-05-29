@@ -1,0 +1,14 @@
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\bin\Debug\net9.0\SecondProject.exe
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\bin\Debug\net9.0\SecondProject.deps.json
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\bin\Debug\net9.0\SecondProject.runtimeconfig.json
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\bin\Debug\net9.0\SecondProject.dll
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\bin\Debug\net9.0\SecondProject.pdb
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\obj\Debug\net9.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\obj\Debug\net9.0\SecondProject.AssemblyInfoInputs.cache
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\obj\Debug\net9.0\SecondProject.AssemblyInfo.cs
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\obj\Debug\net9.0\SecondProject.csproj.CoreCompileInputs.cache
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\obj\Debug\net9.0\SecondProject.dll
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\obj\Debug\net9.0\refint\SecondProject.dll
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\obj\Debug\net9.0\SecondProject.pdb
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\obj\Debug\net9.0\SecondProject.genruntimeconfig.cache
+D:\ki5\PRN212\Location\PRN212 SE1848\SecondProject\obj\Debug\net9.0\ref\SecondProject.dll
