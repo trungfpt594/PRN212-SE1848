@@ -1,0 +1,14 @@
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\bin\Debug\net9.0\OOP3.ExtensionMethod.exe
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\bin\Debug\net9.0\OOP3.ExtensionMethod.deps.json
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\bin\Debug\net9.0\OOP3.ExtensionMethod.runtimeconfig.json
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\bin\Debug\net9.0\OOP3.ExtensionMethod.dll
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\bin\Debug\net9.0\OOP3.ExtensionMethod.pdb
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\obj\Debug\net9.0\OOP3.ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\obj\Debug\net9.0\OOP3.ExtensionMethod.AssemblyInfoInputs.cache
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\obj\Debug\net9.0\OOP3.ExtensionMethod.AssemblyInfo.cs
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\obj\Debug\net9.0\OOP3.ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\obj\Debug\net9.0\OOP3.ExtensionMethod.dll
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\obj\Debug\net9.0\refint\OOP3.ExtensionMethod.dll
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\obj\Debug\net9.0\OOP3.ExtensionMethod.pdb
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\obj\Debug\net9.0\OOP3.ExtensionMethod.genruntimeconfig.cache
+D:\ki5\PRN212\Location\PRN212 SE1848\OOP3.ExtensionMethod\obj\Debug\net9.0\ref\OOP3.ExtensionMethod.dll
